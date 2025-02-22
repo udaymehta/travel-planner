@@ -22,4 +22,3 @@ Try the live demo: [Travel Planner](https://travel-planner-ts.streamlit.app/)
 
 ## License
 This project is licensed under the MIT License.
-This project was part of a college assginment as well.
